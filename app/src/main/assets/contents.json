@@ -1,0 +1,103 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Millie Stickers",
+      "publisher": "La Croixs",
+      "tray_image_file": "tray_Millie.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01-Millie-smilehappy.webp",
+          "emojis": [
+            "🐶",
+            "😄",
+            "☺️"
+          ]
+        },
+        {
+          "image_file": "02-Millie-leftbehind.webp",
+          "emojis": [
+            "🐶",
+            "😟"
+          ]
+        },
+        {
+          "image_file": "03-Millie-judging.webp",
+          "emojis": [
+            "🐶",
+            "😒"
+          ]
+        },
+        {
+          "image_file": "04-Millie-judgingmore.webp",
+          "emojis": [
+            "🐶",
+            "😒"
+          ]
+        },
+        {
+          "image_file": "05-Millie-unhinged.webp",
+          "emojis": [
+            "🐶",
+            "🤪",
+            "😁"
+          ]
+        },
+        {
+          "image_file": "06-Millie-newhat.webp",
+          "emojis": [
+            "🐶",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "07-Millie-desheveled.webp",
+          "emojis": [
+            "🐶",
+            "😴",
+            "🥴"
+          ]
+        },
+        {
+          "image_file": "08-Millie-uncomfortable.webp",
+          "emojis": [
+            "🐶",
+            "🥴",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "09-Millie-coolgoggles.webp",
+          "emojis": [
+            "🐶",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "10-Millie-cutesleepy.webp",
+          "emojis": [
+            "🐶",
+            "😴",
+            "👅"
+          ]
+        },
+        {
+          "image_file": "11-Millie-tootired.webp",
+          "emojis": [
+            "🐶",
+            "😴",
+            "🙁"
+          ]
+        }
+      ]
+    }
+  ]
+}
