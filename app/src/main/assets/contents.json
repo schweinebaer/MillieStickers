@@ -15,11 +15,10 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01-Millie-smilehappy.webp",
+          "image_file": "01-Millie-judging.webp",
           "emojis": [
             "🐶",
-            "😄",
-            "☺️"
+            "😒"
           ]
         },
         {
@@ -30,25 +29,24 @@
           ]
         },
         {
-          "image_file": "03-Millie-judging.webp",
+          "image_file": "03-Millie-bombasticsideeye.webp",
           "emojis": [
             "🐶",
             "😒"
           ]
         },
         {
-          "image_file": "04-Millie-judgingmore.webp",
+          "image_file": "04-Millie-yeahright.webp",
           "emojis": [
             "🐶",
-            "😒"
+            "🙃"
           ]
         },
         {
-          "image_file": "05-Millie-unhinged.webp",
+          "image_file": "05-Millie-hellooo.webp",
           "emojis": [
             "🐶",
-            "🤪",
-            "😁"
+            "🧐"
           ]
         },
         {
@@ -59,26 +57,27 @@
           ]
         },
         {
-          "image_file": "07-Millie-desheveled.webp",
+          "image_file": "07-Millie-toothsmile.webp",
           "emojis": [
             "🐶",
-            "😴",
-            "🥴"
+            "😁",
+            "😆"
           ]
         },
         {
-          "image_file": "08-Millie-uncomfortable.webp",
+          "image_file": "08-Millie-unhinged.webp",
           "emojis": [
             "🐶",
-            "🥴",
-            "😐"
+            "🤪",
+            "😁"
           ]
         },
         {
-          "image_file": "09-Millie-coolgoggles.webp",
+          "image_file": "09-Millie-smilehappy.webp",
           "emojis": [
             "🐶",
-            "😎"
+            "😄",
+            "☺️"
           ]
         },
         {
@@ -90,11 +89,64 @@
           ]
         },
         {
-          "image_file": "11-Millie-tootired.webp",
+          "image_file": "11-Millie-desheveled.webp",
+          "emojis": [
+            "🐶",
+            "😴",
+            "🥴"
+          ]
+        },
+        {
+          "image_file": "12-Millie-ugh.webp",
+          "emojis": [
+            "🐶",
+            "😴",
+            "😑"
+          ]
+        },
+        {
+          "image_file": "13-Millie-tootired.webp",
           "emojis": [
             "🐶",
             "😴",
             "🙁"
+          ]
+        },
+        {
+          "image_file": "14-Millie-cutesleepy.webp",
+          "emojis": [
+            "🐶",
+            "😴",
+            "☺️"
+          ]
+        },
+        {
+          "image_file": "15-Millie-coolgoggles.webp",
+          "emojis": [
+            "🐶",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "16-Millie-uncomfortable.webp",
+          "emojis": [
+            "🐶",
+            "🥴",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "17-Millie-badhairday.webp",
+          "emojis": [
+            "🐶",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "18-Millie-wetdog.webp",
+          "emojis": [
+            "🐶",
+            "😐"
           ]
         }
       ]
